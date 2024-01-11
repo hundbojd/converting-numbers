@@ -7,7 +7,7 @@ def fool_check_system(n):
 
 
 def fool_check_num(n):
-    k = n
+    k = str(abs(int(n)))
     while not k.isdigit():
         print('Please, enter the number')
         k = input()
