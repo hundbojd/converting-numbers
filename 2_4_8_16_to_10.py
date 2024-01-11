@@ -29,6 +29,7 @@ def changing_system(n, m):
         input_num[input_num.index(i)] = 'a'
     return n
 
+
 letters_16 = ['A', 'B', 'C', 'D', 'E', 'F']
 
 
